@@ -1,0 +1,31 @@
+# Binary / generated artefacts
+*.npy
+*.pt
+*.mid
+*.mxl
+*.mmap
+*.pkl
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Run outputs
+logs/
+tmp/
+runs/
+outputs/generated/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
